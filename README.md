@@ -18,7 +18,7 @@
 - Legend customization
 
 ## 🗺️ Output
-![Map](Bikelanes_in_Vancouver.png)
+![Map](Bikeways_in_Vancouver.png)
 
 ## 📍 Data Source
 
